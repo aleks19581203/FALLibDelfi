@@ -1,0 +1,13 @@
+#.gitignore
+
+# Local files
+
+*.local
+*.identcache
+
+# Рабочие файлы
+FileLog.rtf
+WebView2Loader.dll
+
+# Compiler-generated binaries
+*.dcu
